@@ -1,6 +1,6 @@
 import React, {Component} from "react";
 import { MDBCol, MDBContainer, MDBRow, MDBFooter } from "mdbreact";
-import 'font-awesome/css/font-awesome.min.css';
+//import 'font-awesome/css/font-awesome.min.css';
 import { ReactComponent as Logo} from './github-logo.svg';
 
 
