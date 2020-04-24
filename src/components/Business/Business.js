@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 //import 'font-awesome/css/font-awesome.min.css';
 import './Business.css';
 import {ReactComponent as Review} from './rate_review.svg';
+import { Link, NavLink } from 'react-router-dom';
 
 class Business extends React.Component {
 
